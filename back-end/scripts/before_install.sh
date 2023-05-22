@@ -14,7 +14,7 @@ if [ ! command -v nvm &> /dev/null ]; then
 fi
 
 # CEK DIREKTORI
-DIR="/home/ec2-user/environment/express-app"
+DIR="/home/ec2-user/aws-be2"
 echo "CEK DIRECTORY $DIR"
 if [ -d "$DIR" ]; then
   echo "$DIR TELAH ADA"
