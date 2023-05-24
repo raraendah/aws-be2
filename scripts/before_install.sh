@@ -25,5 +25,3 @@ else
   mkdir ${DIR}
   sudo chmod -R 777 "$DIR"
 fi
-
-npm run start
