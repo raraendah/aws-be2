@@ -10,7 +10,7 @@ const init = async () => {
   }
   });
 
-  // server.route({
+  // server.route({ 
   //   method: "GET",
   //   path: "/",
   //   handler: (request, h) => {
