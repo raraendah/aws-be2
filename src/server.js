@@ -14,7 +14,7 @@ const init = async () => {
   //   method: "GET",
   //   path: "/",
   //   handler: (request, h) => {
-  //     return "Hello World!, oh yeaahhh woho... berhasil. lelah ya... mangat...";
+  //     return "Hello World!, This is project cloud website!";
   //   },
   // });
 
